@@ -1,6 +1,7 @@
-Problem 1: Sudoku+ solver
 Note this is sudoku+, not simple sudoku i.e. we are trying to assign numbers in such a way that numbers are not repeated accross diagonals as well.
-For normal sudoku go to the sol.c file and comment the diagonal repeatition portion and bingo!!
+For normal sudoku go to the sol.c file and comment the diagonal repeatition portion. Do the same for gen.c as well and bingo!!
+
+Problem 1: Sudoku+ solver
 Code : "sol.c"
 Description :
 1)Input is given through "sudoku_in.txt"; SHOULD BE PRESENT THERE IN THE SAME DIRECTORY OF "sol.c" BEFORE COMPILATION.
