@@ -36,7 +36,7 @@ will be unique at first few popping operation. Whenever the solution becomes mul
 operation starts. We start checking if it is possible to eliminate non-zero values randomly as much as possible to get a minimal 
 solution and the algo works!!
 4)The final RANDOM MINIMAL puzzle is stored in "sample.txt".
-5)Compile by the command "gcc -o b.out sol.c" to get the executable "b.out".
+5)Compile by the command "gcc -o b.out gen.c" to get the executable "b.out".
 6)Use "./b.out" to get output in "sample.txt".
 7)BEFORE EXECUTING PROBLEM 2 PROBLEM 1 MUST BE EXECUTED (Nothing to worry again! Use a trivial,very trivial input as above!).
 8)The solution is be minimal, i.e. it is not be possible to remove any of the filled entries without allowing
